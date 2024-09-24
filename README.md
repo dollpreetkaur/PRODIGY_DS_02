@@ -37,14 +37,14 @@ Bar plot
 
 ### Insights:
 After completing the data cleaning and EDA process, some valuable insights which I found are:
-1:FROM ABOVE GRAPHS , WE CAN CONCLUDE THAT NO. OF FEMALE BUYERS ARE HIGHER THAN MALE AND FEMALES SPENT MORE AMOUNT ON PURCHASING I.E. THEY HAVE SPEND MORE ON DIWALI SHOPPING.
-2:FROM ABOVE GRAPHS WE CAN SEE THAT ,MOST BUYERS ARE FROM AGE GROUP 26-35
-3:From above graphs,we can say that , UTTAR PRADESH has highest no. of Orders and has highest Amount spent by customers.
+-1:No.of female buyers are higher than male and females spent more amount purchasing.
+-2:Most buyers are from age group 26-35
+-3:Uttar pradesh has highest no. of Orders and has highest Amount spent by customers.
 followed by Maharashtra,Karnataka.
-4:from above graphs , we can see that most buyers are married(women) and have high purchasing power.
-5: from above graphs we can see that , most of buyers are from IT sector,Healthcdare, Aviation sector
-6:From above graphs we can say that, most of the sold products are from Food,Clothing and Apparel, Electronic & gadgets
-7: from above graphs we can see that most of sold products are from FOOD,CLOTHING AND APPAREL AND ELECTRONICS CATEGORY
+-4:from above graphs, we can see that most buyers are married(women) and have high purchasing power.
+-5: from above graphs we can see that , most of buyers are from IT sector,Healthcdare, Aviation sector
+-6:From above graphs we can say that, most of the sold products are from Food,Clothing & Apparel, Electronic & gadgets
+-7: from above graphs we can see that most of sold products are from Food,Clothing & Apparel & Electronics category.
 
 ### Conclusion:
 Married women age group 26-35 yrs from UP,Maharashtra , Karnataka working in IT sector,Healthcare and Aviation are more likely to buy products from Food,Clothing and Electronics category.
